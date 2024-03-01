@@ -41,8 +41,10 @@ export const DUMMY_PRODUCTS = [
     },
     {
     id: 'p5',
-    image: moonlightDress,
-    title: 'Ethereal Moonlight Evening Dress',
+    image: rainJacket,
+    title: 'Vintage Sunshine Rain Jacket',
+    // image: moonlightDress,
+    // title: 'Ethereal Moonlight Evening Dress',
     price: 159.99,
     description:
     'Sweep the room off its feet in our Ethereal Moonlight Evening Dress. Crafted to mimic the allure of the moonlight, this dress is a nod to those who appreciate subtle glamour and a standout silhouette.',
