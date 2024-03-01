@@ -25,7 +25,7 @@ export default function Cart() {
                   <span> ({formattedPrice})</span>
                 </div>
                 <div className="cart-item-actions">
-                  <button onClick={() => onUpdateCart(item.id, -1)}>
+                  <button onClick={() => onupdateCart(item.id, -1)}>
                     -
                   </button>
                   <span>{item.quantity}</span>
