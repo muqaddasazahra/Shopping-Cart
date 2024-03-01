@@ -1,5 +1,6 @@
 import { createContext } from "react";
 import { useState } from "react";
+import { DUMMY_PRODUCTS } from "../../dummy-products";
 
 export const CartContext=createContext({
     items:[],
